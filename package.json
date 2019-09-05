@@ -2,6 +2,10 @@
   "name": "tk-kit",
   "version": "0.1.0",
   "private": true,
+  "engines" : { 
+    "node" : ">=12.10.0 <13.0.0",
+    "npm" : "~6.10.3"
+  },
   "dependencies": {
     "classnames": "^2.2.6",
     "prop-types": "^15.7.2",
